@@ -9,3 +9,8 @@ nano filename.txt
 ```
 touch filename.txt
 ```
+
+**display the file body**
+```
+cat filename.txt
+```
