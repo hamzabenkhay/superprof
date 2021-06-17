@@ -1,0 +1,9 @@
+celery==4.3.0
+flask==1.1.1
+flower==0.9.3
+jinja2==2.11.3
+redis==3.3.11
+Flask-SQLAlchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
